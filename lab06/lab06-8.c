@@ -1,3 +1,5 @@
+#I didnt do it by my self. im so sad  
+
 #include <stdio.h>
 
 void removeKilled(int *array, int size, int killedPrisoner);
