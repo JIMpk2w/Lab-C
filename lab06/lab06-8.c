@@ -1,4 +1,4 @@
-#I didnt do it by my self. im so sad  
+//I didnt do it by my self. im so sad  
 
 #include <stdio.h>
 
