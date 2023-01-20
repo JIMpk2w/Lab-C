@@ -1,4 +1,4 @@
-//I didnt do it by my self. im so sad  
+//I didnt do this by my self. Im sad.  QwQ
 
 #include <stdio.h>
 
